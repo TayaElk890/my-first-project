@@ -1,2 +1,3 @@
 # my-first-project
-my first educational project
+
+This my first educational project
